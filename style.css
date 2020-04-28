@@ -1,0 +1,15 @@
+.output {
+    font-family: monospace;
+    font-size: 2.5em;
+    color: white;
+    text-shadow:0 0 0.1em green,
+                0 0 0.2em darkgreen,
+                0 0 0.4em darkgreen,
+                0 0 0.6em green,
+                0 0 0.8em darkgreen,
+                0 0 1.0em darkgreen,
+                0 0 1.2em green;
+}
+body {
+    background-color: #000;
+}
